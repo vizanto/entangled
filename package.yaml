@@ -11,7 +11,7 @@ description:         ! 'Makes literate programming easier. EnTangleD allows you
                      generated code.'
 github:              "jhidding/enTangleD"
 homepage:            https://jhidding.github.io/enTangleD
-license:             Apache-2
+license:             Apache-2.0
 author:              "Johan Hidding"
 maintainer:          "j.hidding@esciencecenter.nl"
 copyright:           "2018-2019 Johan Hidding, Netherlands eScience Center"
